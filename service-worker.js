@@ -1,4 +1,4 @@
-const CACHE_NAME = "concrete-quiz-v2";
+const CACHE_NAME = "concrete-quiz-v6";
 
 const urlsToCache = [
   "./",
