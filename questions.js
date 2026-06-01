@@ -24,7 +24,7 @@ choices:[
 ],
 answer:0,
 explanation:"締固め不足でジャンカが発生します。"
-}
+},
 
 {
 category:"材料",
